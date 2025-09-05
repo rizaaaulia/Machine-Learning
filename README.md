@@ -1,2 +1,2 @@
 # Machine-Learning
-Kumpulan implementasi dan eksperimen algoritma Machine Learning sebagai arsip.
+Kumpulan eksperimen algoritma Machine Learning random sebagai arsip.
